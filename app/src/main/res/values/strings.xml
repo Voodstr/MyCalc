@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyCalc</string>
+    <string name="oneBtnText">1</string>
+    <string name="twoBtnText">2</string>
+    <string name="threeBtnText">3</string>
+    <string name="fourBtnText">4</string>
+    <string name="fiveBtnText">5</string>
+    <string name="sixBtnText">6</string>
+    <string name="sevenBtnText">7</string>
+    <string name="eightBtnText">8</string>
+    <string name="nineBtnText">9</string>
+    <string name="zeroBtnText">0</string>
+    <string name="minusBtnText">-</string>
+    <string name="plusBtnText">+</string>
+    <string name="multiplyBtnText">*</string>
+    <string name="divideBtnText">/</string>
+    <string name="equalBtnText">=</string>
+    <string name="delBtnText">del</string>
+    <string name="clearBtnText">clr</string>
+    <string name="dotText">.</string>
+
+
+
+</resources>
